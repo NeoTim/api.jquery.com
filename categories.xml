@@ -66,6 +66,10 @@
         <p>For more information, see the Release Notes/Changelog at <a href="https://blog.jquery.com/2013/05/24/jquery-1-10-0-and-2-0-1-released/">https://blog.jquery.com/2013/05/24/jquery-1-10-0-and-2-0-1-released/</a></p>
       ]]></desc>
     </category>
+    <category name="Deprecated 3.2" slug="deprecated-3.2">
+      <desc><![CDATA[All the aspects of the API that were deprecated in the corresponding version of jQuery.
+      ]]></desc>
+    </category>
   </category>
   <category name="Dimensions" slug="dimensions">
 	  <desc><![CDATA[These methods are used to get and set the CSS dimensions for the various properties.]]></desc>
